@@ -124,9 +124,6 @@ function geraCSV($info_bancaria)
         }
     }
     fwrite($fp, PHP_EOL);
-    // foreach($data as $key=>$value){
-    //     fwrite($fp, implode(SEPARATOR, $value));
-    // }
     foreach($data as $value){
         fwrite($fp, implode(SEPARATOR, $value));
         fwrite($fp, PHP_EOL);
@@ -190,7 +187,6 @@ function formataInfoBancariaCsv($info_bancaria)
                 } else {
                     $data[$index][$value] = mb_substr($info[$key], 0, $tamanhosInfoBancaria[$value]);
                 }
-                echo '$data['.$index.']['.$value.']='.$data[$index][$value].PHP_EOL;
             } else {
                 return 'formatoInvalido';
             }
