@@ -1,0 +1,41 @@
+[
+  {
+    "cidade": "Alvorada",
+    "contrato": "13\/08\/2020",
+    "cliente": "SecultGO",
+    "cpf": "462.160.529-18",
+    "fornecedor": "João Giovanni Gael da Mata",
+    "cnpj": "462.160.529-18",
+    "banco": "001",
+    "agencia": "4604",
+    "conta": "1272358-4",
+    "valor": "600",
+    "data_pgto": "05\/10\/2020"
+  },
+  {
+    "cidade": "Alvorada",
+    "contrato": "13\/08\/2020",
+    "cliente": "SecultGO",
+    "cpf": "462.160.529-18",
+    "fornecedor": "João Giovanni Gael da Mata",
+    "cnpj": "462.160.529-18",
+    "banco": "001",
+    "agencia": "4604",
+    "conta": "1272358-4",
+    "valor": "600",
+    "data_pgto": "05\/11\/2020"
+  },
+  {
+    "cidade": "Alvorada",
+    "contrato": "13\/08\/2020",
+    "cliente": "SecultGO",
+    "cpf": "462.160.529-18",
+    "fornecedor": "João Giovanni Gael da Mata",
+    "cnpj": "462.160.529-18",
+    "banco": "001",
+    "agencia": "4604",
+    "conta": "1272358-4",
+    "valor": "600",
+    "data_pgto": "05\/12\/2020"
+  }
+]
